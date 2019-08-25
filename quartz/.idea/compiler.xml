@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="33" />
+        <module name="simplequartz" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="111" target="1.5" />
+      <module name="1111" target="1.5" />
+      <module name="123" target="1.5" />
+      <module name="33" target="1.5" />
+      <module name="_123" target="1.5" />
+      <module name="hehe" target="1.5" />
+      <module name="springquartz" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
